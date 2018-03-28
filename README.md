@@ -1,5 +1,5 @@
 # battleship_project
-10 days project of TUM C++ course.
+Technical University of Munich Battleship Project C++
 
 Our task was to implement the game battleship with GUI and network in a team of three in an object oriented style. We used the QTCreater to create network and user interface.
 
