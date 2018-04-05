@@ -32,4 +32,12 @@ because of lack of time.
 
 Now if you feel like playing battleship with someone, here are the instructions:
 
-Run the executable: 
+1) Run the executable: Battleship (Opponent should do the same)
+2) Decide whether to be the client or server (if you're the client then your opponent must be the server).
+3) Both you and your opponent should enter a number above 1000 as your common port (e.g. 1234).
+4) The client has to enter the IP address of the server.
+5) Now you (or the opponent) may launch the server by pressing the connect button.
+6) Afterwards the client may press the connect button. 
+7) If the connection is established you may press start, place your ships and start the game!
+
+May the odds be ever in your favor!
